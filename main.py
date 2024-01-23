@@ -10,7 +10,7 @@ class Tileset(str, Enum):
     HERO = 'H'
     
     
-
+# TODO resolve error when going out of bounds
 def main():
 
     hero_position_x = 0
