@@ -11,6 +11,7 @@ class Tileset(str, Enum):
     
     
 # TODO resolve error when going out of bounds
+
 def main():
 
     hero_position_x = 0
